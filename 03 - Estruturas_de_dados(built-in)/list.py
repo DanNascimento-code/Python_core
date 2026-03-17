@@ -67,7 +67,7 @@ numbers = [1, 2, 2, 3, 4, 7, 9, 11, 12, 12, 13, 14, 17, 19]
 print(f"metodo index(): {numbers.index(4)}")
 
 # count() - Conta quantas vezes aparece
-print(f"metodo count{numbers.count(12)}")
+print(f"metodo count: {numbers.count(12)}")
 
 # sort() - Ordena a lista
 numbers = [11, 2, 3, 6, 4]

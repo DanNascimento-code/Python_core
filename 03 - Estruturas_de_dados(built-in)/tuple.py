@@ -16,7 +16,7 @@ print(f"Elementos do índice 2 ao 5: {minha_tupla[2:6]}")
 
 # Desempacotamento de tupla
 a, b, c, d, e, f, g, h = minha_tupla
-print(f"Desempacotamento: a={a}, b={b}")
+print(f"Desempacotamento: a={a}, b={d}")
 
 
 
